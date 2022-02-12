@@ -1,10 +1,21 @@
-<h1 align="center">Hi 👋, I'm Arisa</h1>
-<h3 align="center">A passionate developer and musician🎻 from Japan</h3>
+<h1 align="left">Hi 👋, I'm Arisa</h1>
+<h3 align="left">A passionate developer and musician from Japan</h3>
 
-- 📫 How to reach me **ardolce23@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Now:</h3>
 <p align="left">
+・Project: An app for performers "Taktivent"
+・Will Graduate soon at Le Wagon Tokyo in March, 2022
+・Interested in frontend ✨
+</p>
+
+<h3 align="left">Bio:</h3>
+<p align="left">
+・🏢 I'm currently working as a Tech operation supervisor
+・💬 Speaking Japanese, English and German
+・🎻 Professional trained violinist
+・📫 Reach me: ardolce23@gmail.com
+・ ⚡️ Fun fact: I'm a huge fan of Penguin
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
