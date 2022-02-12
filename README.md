@@ -3,19 +3,18 @@
 
 
 <h3 align="left">Now:</h3>
-<p align="left">
-・Project: An app for performers "Taktivent"
-・Will Graduate soon at Le Wagon Tokyo in March, 2022
-・Interested in frontend ✨
+<p align="left">・Project: An app for performers "Taktivent"</p>
+<p align="left">・Will Graduate soon at Le Wagon Tokyo in March, 2022</p>
+<p align="left">・Interested in frontend ✨</p>
 </p>
 
 <h3 align="left">Bio:</h3>
 <p align="left">
-・🏢 I'm currently working as a Tech operation supervisor
-・💬 Speaking Japanese, English and German
-・🎻 Professional trained violinist
-・📫 Reach me: ardolce23@gmail.com
-・ ⚡️ Fun fact: I'm a huge fan of Penguin
+<p align="left">・🏢 I'm currently working as a Tech operation supervisor</p>
+<p align="left">・💬 Speaking Japanese, English and German</p>
+<p align="left">・🎻 Professional trained violinist</p>
+<p align="left">・📫 Reach me: ardolce23@gmail.com</p>
+<p align="left">・ ⚡️ Fun fact: I'm a huge fan of Penguin</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
