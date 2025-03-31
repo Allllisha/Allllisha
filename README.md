@@ -9,9 +9,8 @@
 
 <h3 align="left">Bio:</h3>
 <p align="left">
-<p align="left">・🏢 I'm currently working as a Technical Account Manager</p>
-<p align="left">・💬 Speaking Japanese, English and German</p>
 <p align="left">・🎻 Professional trained violinist</p>
+<p align="left">・💬 Speaking Japanese, English and German</p>
 <p align="left">・📫 Reach me: ardolce23@gmail.com</p>
 </p>
 
